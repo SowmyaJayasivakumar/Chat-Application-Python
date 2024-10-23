@@ -32,5 +32,6 @@ python server.py
 
 Terminal 2 (Client 1):  
 python client.py  
+
 Terminal 3 (Client 2):  
 python client.py  
